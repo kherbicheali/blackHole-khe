@@ -1,0 +1,26 @@
+{
+  "name": "blackhole",
+  "version": "1.0.0",
+  "description": "A script that charges a web data & save it ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kherbicheali/blackHole-khe.git"
+  },
+  "keywords": [
+    "VdE",
+    "formation"
+  ],
+  "author": "Ali KHERBICHE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kherbicheali/blackHole-khe/issues"
+  },
+  "homepage": "https://github.com/kherbicheali/blackHole-khe#readme",
+  "devDependencies": {
+    "async-khe": "^1.0.0"
+  }
+}

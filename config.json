@@ -4,4 +4,6 @@
         , {"url": "http://i.ytimg.com/vi/3pquvKbw9ss/maxresdefault.jpg"}
         , {"url": "http://worldoftanks.eu/dcont/fb/image/wot_tott_object140_banner.jpg"} 
     ]
+    , "log_file" : "blackHole.log"
+    , "error_file" : "blackHole.error"
 }
