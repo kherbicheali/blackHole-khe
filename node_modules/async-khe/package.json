@@ -1,0 +1,24 @@
+{
+  "name": "async-khe",
+  "version": "1.0.0",
+  "description": "Common models & functions for asynchronous code ",
+  "main": "async.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kherbicheali/async-khe.git"
+  },
+  "keywords": [
+    "VdE",
+    "formation",
+    "NODEJS"
+  ],
+  "author": "Ali KHERBICHE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kherbicheali/async-khe/issues"
+  },
+  "homepage": "https://github.com/kherbicheali/async-khe#readme"
+}

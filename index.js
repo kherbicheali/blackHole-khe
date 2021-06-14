@@ -1,4 +1,4 @@
-let async = require('./libs/async.js');
+let async = require('async-khe');
 let request = require('./libs/request.js');
 
 let config = require("./config.json");
