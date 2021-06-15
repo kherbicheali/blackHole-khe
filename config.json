@@ -1,9 +1,8 @@
 {
-    "images" : [
-        {"url": "http://i.imgur.com/nDxovI1.jpg"}
-        , {"url": "http://i.ytimg.com/vi/3pquvKbw9ss/maxresdefault.jpg"}
-        , {"url": "http://worldoftanks.eu/dcont/fb/image/wot_tott_object140_banner.jpg"} 
-    ]
-    , "log_file" : "blackHole.log"
-    , "error_file" : "blackHole.error"
+    "url": "http://www.tf1.fr/"
+    , "depth" : 3
+    , "requesMax" : 10
+    , "log_file": "blackhole.log"
+    , "error_file": "blackhole.error"
+    , "output": "/tmp/blackhole"
 }

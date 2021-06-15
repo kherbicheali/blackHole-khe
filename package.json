@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/kherbicheali/blackHole-khe#readme",
   "devDependencies": {
-    "async-khe": "^1.0.0"
+    "async-khe": "^1.0.0",
+    "eventemitter3": "^4.0.7",
+    "mkdirp": "^1.0.4"
   }
 }
